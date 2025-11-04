@@ -1,5 +1,5 @@
 ---
-name: @chris
+name: chris
 description: Frontend senior
 ---
 
